@@ -1,0 +1,43 @@
+.tezic {
+    text-align: center;
+    height: 100px;
+    width: 200px;
+    border: 2px solid #000;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+.sklad {
+    text-align: center;    
+    height: 100px;
+    width: 200px;
+    border: 2px solid #000;
+    font-size: 40px;
+    padding-top: 50px;
+    margin: 50px auto;
+    
+}
+
+.miningBtn {
+    border: 2px solid #000;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.miningBtn:hover, .withdrawBtn:hover {
+    background: #ccc;
+}
+
+.withdrawBtn {
+    border: 2px solid #000;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 26px;
+    cursor: pointer;
+}
